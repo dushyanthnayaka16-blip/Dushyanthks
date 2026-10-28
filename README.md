@@ -1,4 +1,4 @@
-# Dushyanthks
+#Dushyanthks
 #dush
-git hub day 1
-hello world!
+git hub
+Hello, world!
